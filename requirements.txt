@@ -1,0 +1,7 @@
+pandas
+gensim
+spacy
+nltk
+matplotlib
+pyLDAvis
+openpyxl
