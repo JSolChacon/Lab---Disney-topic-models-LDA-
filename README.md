@@ -11,7 +11,7 @@ er zijn vooraf geen labels nodig. De opzet volgt het GeeksforGeeks-voorbeeld ove
 1. Leest `disney_plus_titles.csv` en voegt titel + beschrijving samen.
 2. Schoont de tekst op, haalt stopwoorden weg en brengt woorden terug tot hun basisvorm (spaCy).
 3. Bouwt een bag-of-words corpus (gensim).
-4. Traint een LDA-model met **20 topics** en meet de kwaliteit met de coherence-score.
+4. Traint een LDA-model met **20 topics** en meet de kwaliteit met de coherence-score. 20 topics was een willekeurige nummer om te kiezen voor meer varieteit/ experimenteren.
 5. Koppelt elke titel aan zijn belangrijkste topic.
 6. Schrijft de resultaten naar Excel, CSV, grafieken en een interactieve LDAvis.
 
