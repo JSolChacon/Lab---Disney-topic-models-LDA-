@@ -6,6 +6,7 @@ Minor Big data & Design, week 10 (Lab).
 Een Python-script dat de **1450 Disney+-titels** (1052 films, 398 series) groepeert op thema
 met **LDA (Latent Dirichlet Allocation)**. Het model gebruikt alleen de titel en beschrijving,
 er zijn vooraf geen labels nodig. De opzet volgt het GeeksforGeeks-voorbeeld over LDA.
+_bron: https://www.geeksforgeeks.org/nlp/topic-modeling-using-latent-dirichlet-allocation-lda/_
 
 ## Wat doet het script (`lda_disney.py`)?
 1. Leest `disney_plus_titles.csv` en voegt titel + beschrijving samen.
